@@ -1,11 +1,9 @@
 # Desafio Ransomware
 
 Projeto criado em volta do curso   
-Entendendo um Ransomware na Prática com Python
-Criado os arquivos:
-decrypter.py (descriptografa o arquivo teste.txt.ransomwaretroll)
-encrypter.py (criptografa o arquivo teste.txt)
-teste.txt
-teste.txt.ransomwaretroll
-
-
+Entendendo um Ransomware na Prática com Python<br><br>
+Criado os arquivos:<br>
+decrypter.py (descriptografa o arquivo <br>teste.txt.ransomwaretroll)<br>
+encrypter.py (criptografa o arquivo teste.txt)<br>
+teste.txt<br>
+teste.txt.ransomwaretroll<br>
